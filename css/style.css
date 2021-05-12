@@ -1,0 +1,108 @@
+
+header
+{
+    padding-top: 15px;
+    background-color:#97CBFF;
+    text-align: center;
+    font-size: 50px;
+    font-family: "微軟正黑體"; 
+    font-weight: bold;
+}
+
+body
+{
+
+ background-color: #D2E9FF;
+padding-left: 30px;
+padding-right: 30px;
+
+}
+.img1
+{
+    width: 300px;
+    height: 300px;
+    float: left;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-left: 200px;
+    margin-top: 140px;
+    margin-right: 50px;
+    border-style: groove;
+}
+.name
+{   
+    font-size: 50px;
+    font-family: "微軟正黑體";
+    background-color:#00E3E3;
+    color: 	#0066CC;
+}
+
+.icon
+{
+margin: 15px;
+width: 90px;
+height: 90px;
+}
+
+.il
+{
+    font-size: 40px;
+    height: 150px;
+    width: 200px;
+    color:white ;
+}
+
+hr
+{
+ border: 5px solid #2894FF;
+ margin: 10px;
+}
+
+h1
+{
+    font-family: "Comic Sans MS";
+    font-size: 45px;
+    text-align: center;
+    background-color: #E8FFF5;
+    
+}
+h2{
+    font-family: "微軟正黑體";
+    font-weight: bold;
+    background-color: skyblue;
+    font-size: 40px;
+
+}
+.title{
+
+    font-family: "微軟正黑體";
+    font-weight: bold;
+    background-color: skyblue;
+    font-size: 40px;
+}
+
+
+.intro{
+    width: 560;
+    font-family: "微軟正黑體";
+    font-size: 30px;
+    padding-right: 10px;
+    padding-left: 10px;
+    font-weight: bold;
+    color: white;
+    background-color:  	#00E3E3;
+}
+
+.rl
+{
+    font-size: 30px;
+    width: 450px;
+    color:black ;
+    background-color: skyblue;
+    font-family: "微軟正黑體";
+}
+.video{
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 10px;
+}
